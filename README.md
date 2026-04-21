@@ -38,8 +38,11 @@ A sleek, professional Android application designed to showcase a developer's ski
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 <img width="720" height="1471" alt="Screenshot_20260421-131910_Portfolio 1" src="https://github.com/user-attachments/assets/7f6988c4-836d-471c-a2d8-a03dc01051ed" />
+...
 <img width="720" height="1471" alt="Screenshot_20260421-131926_Portfolio" src="https://github.com/user-attachments/assets/cca43b43-f4d5-453c-9b57-f082f207ef20" />
+...
 <img width="720" height="1471" alt="Screenshot_20260421-131922_Portfolio" src="https://github.com/user-attachments/assets/fb7c85a7-ac43-4b54-bce0-23fb33bb4930" />
+...
 <img width="720" height="1471" alt="Screenshot_20260421-131917_Portfolio" src="https://github.com/user-attachments/assets/560ebd48-b6f3-435a-b720-35462059eada" />
 
 
